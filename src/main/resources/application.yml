@@ -1,0 +1,4 @@
+# Can use either application.properties or application.yml - they just differ in format but the functionality is essentially the same
+spring:
+  application:
+    name: "demo"
